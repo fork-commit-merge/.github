@@ -8,7 +8,7 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=nikohoffren_fork-commit-merge-web&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=nikohoffren_fork-commit-merge-web)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nikohoffren_fork-commit-merge-web&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nikohoffren_fork-commit-merge-web)
 
-## Welcome to Fork, Commit, Merge, -organization!
+Welcome to Fork, Commit, Merge, -organization!
 
 From here you can find all of your projects, such as the main Fork, Commit, Merge project, as well as the [forkcommitmerge.io](https://forkcommitmerge.io) website repository. Fork, Commit, Merge is your one-stop resource hub for mastering GitHub contributions! Whether you're a novice coder or an experienced developer, our comprehensive guides are designed to streamline your GitHub journey. We delve into everything from basic Git commands to intricate pull request processes, making collaboration seamless and efficient. Learn the ins and outs of forking, committing, and merging with our easy-to-follow tutorials and expert advice. At Fork, Commit, Merge, we're passionate about empowering you to contribute confidently and effectively to the open-source world. Let's code, collaborate, and create together!
 
