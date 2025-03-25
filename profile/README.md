@@ -3,8 +3,6 @@
 ![Fork, Commit, Merge - screenshot](/fork-commit-merge-banner2.png)
 [![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-green.svg)](https://github.com/nikohoffren/fork-commit-merge-web/pulls)
 [![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-green.svg)](https://github.com/nikohoffren/fork-commit-merge-web/pulls)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=nikohoffren_fork-commit-merge-web&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=nikohoffren_fork-commit-merge-web)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nikohoffren_fork-commit-merge-web&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nikohoffren_fork-commit-merge-web)
 
 Welcome to "Fork, Commit, Merge" -organization!
 
