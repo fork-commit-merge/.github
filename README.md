@@ -1,6 +1,6 @@
 <div align="center">
 
-![Fork, Commit, Merge - screenshot](/fork-commit-merge-banner2.png)
+![Fork, Commit, Merge - screenshot](/fork-commit-merge-banner3.png)
 [![Issues](https://img.shields.io/github/issues/nikohoffren/fork-commit-merge-web.svg?style=flat)](https://github.com/nikohoffren/fork-commit-merge-web/issues)
 [![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-green.svg)](https://github.com/nikohoffren/fork-commit-merge-web/pulls)
 [![Contributors Welcome](https://img.shields.io/badge/contributors-welcome-green.svg)](https://github.com/nikohoffren/fork-commit-merge-web/pulls)
